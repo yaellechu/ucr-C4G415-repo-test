@@ -2,5 +2,3 @@
 This is a test repo for SW dev Lessons
 ---
 **Hola este es mi primer markdown**
----
-# Branch prueba-uno #
